@@ -6,7 +6,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:\Hub\commons-csv-1.10.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-csv-1.10.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 	
 </classpath>

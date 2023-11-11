@@ -1,7 +1,0 @@
-{
-    "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": [
-        "C:/Hub/commons-csv-1.10.0.jar"
-    ]
-}
